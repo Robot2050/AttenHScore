@@ -1,0 +1,37 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "story": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "answer_start": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "text": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    "additional_answers": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
