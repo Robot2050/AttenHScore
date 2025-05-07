@@ -92,3 +92,18 @@ We first conduct a comprehensive evaluation of the key component for detecting h
 ![Main results](images/main_results.jpg)
 
 ![Collaboration results](images/collaboration.jpg)
+
+
+## Citation
+
+```
+@article{AttenHScore,
+  title={Invoke Interfaces Only When Needed: Adaptive Invocation for Large Language Models in Question Answering},
+  author={Zhao, Jihao and Zhou, Chunlai and Qin, Biao},
+  journal={arXiv preprint arXiv:2505.02311},
+  year={2025}
+} 
+```
+
+
+
