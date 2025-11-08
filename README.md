@@ -99,7 +99,7 @@ We first conduct a comprehensive evaluation of the key component for detecting h
 ```
 @article{AttenHScore,
   title={Invoke Interfaces Only When Needed: Adaptive Invocation for Large Language Models in Question Answering},
-  author={Zhao, Jihao and Zhou, Chunlai and Qin, Biao},
+  author={Zhao, Jihao and Zhou, Chunlai and Li, DaiXuan and Zu, Shuaishuai and Qin, Biao},
   journal={arXiv preprint arXiv:2505.02311},
   year={2025}
 } 
